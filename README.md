@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prerna2909
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning and working Angular and Microservices Java
+- 🌱 I’m currently learning and working with Angular and Microservices Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me through prernasharan2909@gmail.com
 
